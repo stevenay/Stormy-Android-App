@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="err_title">Oops! Sorry!</string>
+    <string name="err_message">There was an error. Please try again.</string>
+    <string name="err_ok_button_text">OK</string>
+</resources>
